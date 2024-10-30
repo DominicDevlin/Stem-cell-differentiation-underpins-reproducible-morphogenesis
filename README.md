@@ -1,7 +1,3 @@
-Code and Data for "Stem-cell differentiation underpins reproducible morphogenesis"
-
-https://doi.org/10.5061/dryad.pk0p2ngxx
-
 This repository contains the data and source code associated with the manuscript "Stem-cell differentiation underpins reproducible morphogenesis".
 
 source-code/: This directory includes all core files required for running evolutionary simulations. The code base is built with the Qt framework, so ensure that the necessary Qt libraries are installed.
